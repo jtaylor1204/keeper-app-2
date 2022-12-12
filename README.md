@@ -20,13 +20,13 @@ This React app was created in conjunction with [The App Brewery](https://appbrew
 
 - React.js/ NPM
 
-- [Material UI] (https://mui.com/material-ui/getting-started/installation/)
+- [Material UI](https://mui.com/material-ui/getting-started/installation/)
 
 - Colors from: The App Brewery
 
 - Fonts from [Google Fonts](https://fonts.google.com/)
 
-- Project credit to [Angela Yu/The App Brewery] (https://appbrewery.com/)
+- Project credit to [Angela Yu/The App Brewery](https://appbrewery.com/)
 
 ## Contribute
 
